@@ -1,8 +1,16 @@
 # Description
 
+## Summary
+
 <!-- Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change. -->
 
-Fixes # (issue)
+## Relevant issue(s)
+
+<!-- List the issues related to this PR here in the format "#[ISSUE NUMBER]". Ideally there should only be one issue per PR. -->
+<!-- For example:
+- #1
+- #2
+ -->
 
 ## Type of change
 
