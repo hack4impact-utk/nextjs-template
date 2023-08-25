@@ -2,7 +2,3 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 pnpm dlx lint-staged
-
-echo "Running tests..."
-
-pnpm test
