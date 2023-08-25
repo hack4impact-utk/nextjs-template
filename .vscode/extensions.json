@@ -9,8 +9,7 @@
     "esbenp.prettier-vscode",
     "Orta.vscode-jest",
     "firsttris.vscode-jest-runner",
-    "yoavbls.pretty-ts-errors",
-    "Orta.vscode-twoslash-queries"
+    "yoavbls.pretty-ts-errors"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
