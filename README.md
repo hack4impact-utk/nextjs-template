@@ -41,6 +41,7 @@ Put an overview of the non-profit you are working with and what you are doing fo
 <!-- Ensure any other prerequisites your project needs are mentioned here. -->
 
 - [Node.js (v18)](https://nodejs.org/en/)
+- [pnpm](https://pnpm.io/)
 
 <!-- Add or modify steps here for getting started as a developer -->
 
