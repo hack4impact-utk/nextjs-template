@@ -42,6 +42,7 @@ Put an overview of the non-profit you are working with and what you are doing fo
 
 - [Node.js (v18)](https://nodejs.org/en/)
 - [pnpm](https://pnpm.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 <!-- Add or modify steps here for getting started as a developer -->
 
