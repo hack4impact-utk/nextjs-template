@@ -113,8 +113,8 @@ pnpm test
 
 ## Project Structure
 
-- `src/app`: Contains pages for the application, using the [NextJS App Router](https://nextjs.org/docs/app)
-- `src/components`: Contains React components that are used in multiple places in the application
+- `src/app`: Contains pages for the application using the [NextJS App Router](https://nextjs.org/docs/app)
+- `src/components`: Contains React components used across the project
   - There should be a folder for each component with an `index.ts` file that exports the component
 - `src/server/actions`: Contains functions that interact with the database through the Mongoose ODM
 - `src/server/models`: Contains Mongoose models for the database
